@@ -13,7 +13,7 @@ body {
 
 /* Style the header */
 header {
-    background-color: #9900e0;
+    background-color: #4c0269;
     color: #f8f8f8;
     text-align: center;
     padding: 20px;
@@ -42,7 +42,7 @@ nav a {
 section {
     padding: 20px;
     margin: 20px;
-    background-color: #fff;
+    background-color: #858484;
     border-radius: 5px;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
 }
@@ -75,13 +75,13 @@ section {
 
 /* Style the Project List section */
 #project-list {
-    background-color: #f4f4f4;
+    background-color: #210347;
     padding: 20px;
 }
 
 #project-list h2 {
     font-size: 1.5rem;
-    color: #333;
+    color: #918f8f;
 }
 
 #project-list ul {
